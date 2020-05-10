@@ -1,0 +1,13 @@
+namespace: "mateothegreat"
+name: "erlang"
+version: "0.0.1"
+readme: "README.md"
+authors:
+  - "Matthew Davis (https://matthewdavis.io)"
+description: "Install & configure the latest version of erlang."
+license: ["MIT"]
+license_file: "COPYING"
+tags: ["erlang"]
+repository: "https://github.com/mateothegreat/erlang.git"
+homepage: "https://github.com/mateothegreat/erlang"
+issues: "https://github.com/mateothegreat/erlang/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
